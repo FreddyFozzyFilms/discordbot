@@ -206,4 +206,4 @@ async def purchase(ctx, *, word=None):
                 word=word, user_id=ctx.author.id)
 
 
-client.run('NzUyMzQxMzQ5NzAwODYxOTcz.X1WOew.M8fJ7OXqmiyD6Fk_BtVNX2wCGa4')
+client.run('***token*****')
