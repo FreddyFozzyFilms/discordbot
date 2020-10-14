@@ -106,4 +106,4 @@ async def ascii(ctx, channel='Grey'):
     else:
         await ctx.send('must attach image')
 
-client.run('NzQ2ODk3ODI1NDAwNjE5MDg4.X0HAzg.AVsLQ0WJ0ahfgcD14tJm86FAHf0')
+client.run('*******token*******')
